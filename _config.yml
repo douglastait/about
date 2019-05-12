@@ -17,7 +17,7 @@ title: Douglas Tait
 email: forrest.ameling@gmail.com
 description: "A results-driven sales and management professional with an entrepreneurial focus and proven track record for significantly increasing revenue."
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://127.0.0.1:4000" # the base hostname & protocol for your site http://DouglasTait.Github.io/About
+url: "https://douglastait.github.io/about/" # the base hostname & protocol for your site http://DouglasTait.Github.io/About
 twitter_username: jekyllrb
 github_username:  jekyll
 
