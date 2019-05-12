@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas Tait</title>
+    <description>I offer high impact web development services. From web design to custom web applications.</description>
+    <link>http://127.0.0.1:4000/</link>
+    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 11 May 2019 23:17:01 -0400</pubDate>
+    <lastBuildDate>Sat, 11 May 2019 23:17:01 -0400</lastBuildDate>
+    <generator>Jekyll v3.1.6</generator>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+
+&lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 10 May 2019 20:07:06 -0400</pubDate>
+        <link>http://127.0.0.1:4000/jekyll/update/2019/05/10/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/jekyll/update/2019/05/10/welcome-to-jekyll.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
+    
+      <item>
+        <title>Beginning My Coding Journey</title>
+        <description>&lt;p&gt;Creativity has always been an aspect of my personality. Making up games to play with my siblings and friends happened almost every weekend as a child. I developed a love for the arts early, and to this day you will find me sketching, paining, woodworking, or heading to see, but must mostly hear, my states local symphony. The feeling I get when a blank canvas becomes an interpretation of what I see or a pile of wood becomes a functioning entertainment console is addicting. I am proud of what I create and completely addicted to the creation and transformation.&lt;/p&gt;
+
+&lt;p&gt;Another reason why I love to build or sketch is a bit odd, and not something most people think about—logic. My art work is primarily realism. When I begin a drawing, I analyze whats before me. I find the differing ratios of objects within the drawing, and scale it from it’s real life size to the size of my paper. The complexity and detail of the world around us captivates me. The depth of complexity and logic of just a single cell to the far reaching corners of our galaxy drove my academic ambitions. In high school I wanted nothing more than to take every science and math course my high school offered. I went through calculus II, loved the detail and technicality of my architecture and inventor classes, and absorbed as much as I could from astronomy, physics, and biology. As I headed to college, I decided to peruse a BS in Biology.&lt;/p&gt;
+
+&lt;p&gt;So far you’re probably wondering, “Hey! I thought this was about coding?” And it is! A year and a half after graduation I had yet to land a job that required my bachelors degree. I applied to posting after posting, interviewed, went in for second interviews, took tests, and in the end continually heard the same response, “We went with someone who had more experience.” It was killing me. And that is when I found upwork.com.&lt;/p&gt;
+
+&lt;p&gt;Having moved to China, I was looking at ways I could make money on-line. As I looked through the site,  it got me thinking about what I could do from a computer. I surfed around the internet and discovered Udemy.com. I was blown away by the content offered on Udemy, and the ability to learn so many different things. Having the obsessive personality that I do, I looked through everything they had to offer. I fell in love with the course in data science and web development. Never in my life had I considered a career in either field, but as I looked deeper, both sparked my creative interests and analytic mind.&lt;/p&gt;
+
+&lt;p&gt;I knew with both careers I would need to learn coding language. I remembered from college a bunch of my buddies struggling through C++ so I started there! I figured why not start with the hardest. C++ was the language I wrote my first Hello World program and would be the foundation for my understanding of: if statements, arrays, while loops, functions, methods, scope, and pretty much the basics of coding. It’s the language I began to grasp and learn the power behind all of those curly brackets, commas, and semi-colons.&lt;/p&gt;
+
+&lt;p&gt;This is where I began. Sitting at an old desk with a 10 RMB notebook and visual studios on my laptop, I began to write code for the first time. I have come a long way from where I began, and am proud of all I have accomplished and learned over the last 5 months. I’ve complete FreeCodeCamp’s Front End Development course, learned SQL and Python, and found countless resources to practice and continue learning. October of 2016 I stepped into a completely foreign environment. I challenged myself to learn something new, and to take a step away from what I was comfortable with. I am far from where I was and see a future full of possibilities. I am addicted and cannot wait to learn the next thing, complete a new project, and see over the years how much further I will go.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Mar 2017 12:00:00 -0500</pubDate>
+        <link>http://127.0.0.1:4000/2017/03/05/Beginning-My-Coding-Journey.html</link>
+        <guid isPermaLink="true">http://127.0.0.1:4000/2017/03/05/Beginning-My-Coding-Journey.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
