@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Douglas Tait</title>
-    <description>I offer high impact web development services. From web design to custom web applications.</description>
-    <link>http://127.0.0.1:4000/</link>
-    <atom:link href="http://127.0.0.1:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 11 May 2019 23:17:01 -0400</pubDate>
-    <lastBuildDate>Sat, 11 May 2019 23:17:01 -0400</lastBuildDate>
+    <description>A results-driven sales and management professional with an entrepreneurial focus and proven track record for significantly increasing revenue.</description>
+    <link>https://douglastait.github.io/about//</link>
+    <atom:link href="https://douglastait.github.io/about//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 12 May 2019 00:14:53 -0400</pubDate>
+    <lastBuildDate>Sun, 12 May 2019 00:14:53 -0400</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Fri, 10 May 2019 20:07:06 -0400</pubDate>
-        <link>http://127.0.0.1:4000/jekyll/update/2019/05/10/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/jekyll/update/2019/05/10/welcome-to-jekyll.html</guid>
+        <link>https://douglastait.github.io/about//jekyll/update/2019/05/10/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://douglastait.github.io/about//jekyll/update/2019/05/10/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -52,8 +52,8 @@
 &lt;p&gt;This is where I began. Sitting at an old desk with a 10 RMB notebook and visual studios on my laptop, I began to write code for the first time. I have come a long way from where I began, and am proud of all I have accomplished and learned over the last 5 months. I’ve complete FreeCodeCamp’s Front End Development course, learned SQL and Python, and found countless resources to practice and continue learning. October of 2016 I stepped into a completely foreign environment. I challenged myself to learn something new, and to take a step away from what I was comfortable with. I am far from where I was and see a future full of possibilities. I am addicted and cannot wait to learn the next thing, complete a new project, and see over the years how much further I will go.&lt;/p&gt;
 </description>
         <pubDate>Sun, 05 Mar 2017 12:00:00 -0500</pubDate>
-        <link>http://127.0.0.1:4000/2017/03/05/Beginning-My-Coding-Journey.html</link>
-        <guid isPermaLink="true">http://127.0.0.1:4000/2017/03/05/Beginning-My-Coding-Journey.html</guid>
+        <link>https://douglastait.github.io/about//2017/03/05/Beginning-My-Coding-Journey.html</link>
+        <guid isPermaLink="true">https://douglastait.github.io/about//2017/03/05/Beginning-My-Coding-Journey.html</guid>
         
         
       </item>
