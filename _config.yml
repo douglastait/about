@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Douglas Tait
-email: forrest.ameling@gmail.com
+email: dougtaitmail@gmail.com
 description: "A results-driven sales and management professional with an entrepreneurial focus and proven track record for significantly increasing revenue."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://douglastait.github.io/about/" # the base hostname & protocol for your site http://DouglasTait.Github.io/About
